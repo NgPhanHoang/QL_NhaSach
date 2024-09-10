@@ -1,0 +1,257 @@
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.AssemblyReference.cache
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.cache
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CoreCompileInputs.cache
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangKi.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.Shared.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\bin\Debug\stdole.dll
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CopyComplete
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+E:\hk1 nam3\.net\doan\QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\stdole.dll
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.AssemblyReference.cache
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangKi.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.cache
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CoreCompileInputs.cache
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CopyComplete
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+D:\doan\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangKi.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CopyComplete
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangKi.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.cache
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CoreCompileInputs.cache
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CopyComplete
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+D:\HK5-năm 3\Công nghệ.NET\doan\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+E:\LuuDuLieuSinhVien\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DoiMatKhau.resources
+D:\Minh\Đại học\Năm 3\NET\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+D:\Minh\Đại học\Năm 3\NET\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+D:\Minh\Đại học\Năm 3\NET\QuanLyNhaSachForm-main\demo_QUANLYNHASACH\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csprojResolveAssemblyReference.cache
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DoiMatKhau.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+D:\Minh\Đại học\Năm 3\NET\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DoiMatKhau.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+E:\LuuDuLieuSinhVien\Do An\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
+C:\Users\Administrator\Desktop\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+C:\Users\Administrator\Desktop\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DoiMatKhau.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+C:\Users\Administrator\Desktop\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.Cache
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe.config
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.exe
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\bin\Debug\QUANLYNHASACH.pdb
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.AssemblyReference.cache
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DangNhap.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.DoiMatKhau.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_nhap.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.frm_xuat.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhachHang.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.KhoSach.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhaCungCap.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NhanVien.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.NHAPSACH.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.Properties.Resources.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TACGIA.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThanhToan.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TheLoai.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.ThongKe.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.TrangChu.resources
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.GenerateResource.cache
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CoreCompileInputs.cache
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.csproj.CopyComplete
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.exe
+C:\Users\Bin\Desktop\4_QuanLyNhaSach\QUANLYNHASACH\obj\Debug\QUANLYNHASACH.pdb
